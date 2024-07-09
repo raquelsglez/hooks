@@ -1,0 +1,12 @@
+.pokemon {
+    background-color: rgb(226, 239, 252);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    padding: 30px;
+    margin: 10px;
+}
+
+.pokemon p {
+    color:rgb(22, 110, 126);
+    font-weight: bold;
+    font-size: 17px;
+}

@@ -1,0 +1,12 @@
+.rickMorty {
+    background-color: rgb(251, 226, 252);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    margin: 10px;
+}
+
+.rickMorty p {
+    color:rgb(138, 11, 197);
+    font-weight: bold;
+    font-size: 17px;
+}
